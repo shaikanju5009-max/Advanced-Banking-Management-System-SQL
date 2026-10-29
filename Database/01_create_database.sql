@@ -1,0 +1,1 @@
+CREATE DATABASE advanced_banking_management_system;
